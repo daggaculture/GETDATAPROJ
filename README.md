@@ -1,4 +1,4 @@
-# datasciencecoursera
+# datasciencecoursera - 3rd Course Project
 Getting and Cleaning Data Project from the 3rd course of the Data Science Specialization from Coursera by Johns Hopkins
 
 The run_analysis.R file is intended to be run within the same director as the UCI Samsung accelerometer and gyroscope data available below.
